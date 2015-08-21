@@ -26,14 +26,14 @@ for the multiplier and the loop count.
 
 ### Workflow
 
-1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
-1. Clone the repository to your computer.
-1. Open the `index.html` file in a browser and open the Developer Tools.
-1. Modify the files to complete your solution.
-1. Refresh the `index.html` page to see the results, and repeat.
+1. Fork the repository for this assignment (found under [github.com/IWU-CIS-125/Week-One-Assignment](https://github.com/IWU-CIS-125/Week-One-Assignment)).
+1. Save the repository to your own account.
+1. Log into [Cloud9](http://c9.io) and create a new workpace by cloning your forked repository.
+1. Check the directions in the readme file.
+1. Modify your code according to the directions.
 1. Make sure all of your code is committed.
 1. Push/sync up to GitHub.
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository. All assignments are due one week from when they are assigned, unless otherwise specified.
 1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
 
 
